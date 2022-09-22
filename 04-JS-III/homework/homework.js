@@ -210,7 +210,7 @@ function breakStatement(numero) {
       array.push(suma);
     }
   }
-  if (i < 10) {
+  if (suma === i) {
     return 'Se interrumpió la ejecución';
   }
   else {
