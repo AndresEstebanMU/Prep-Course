@@ -1,0 +1,32 @@
+      h1 {
+        color: blueviolet;
+      }
+      
+      img {
+        width: 400px;
+      }
+
+      #thirdDiv {
+        height: 600px;
+        width: 500px;
+        background-color: red;
+        padding: 50px;
+        border-width: 1px;
+        border-color: #05ffb0;
+        border-style: dashed;
+        align-content: center;
+        margin: 0 auto;
+      }
+
+      #spanId {
+        font-size: 18px;
+        margin: 50px;
+      }
+
+      * {
+        text-align: center;
+      }
+
+      .imagenFondo {
+        background: url('https://png.pngtree.com/background/20220727/original/pngtree-white-sesame-seeds-on-a-bun-picture-image_1839166.jpg');
+      }

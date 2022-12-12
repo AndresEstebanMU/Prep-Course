@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta chaRSET='utf-8'>
+    <title>Curriculum Vitae</title>
+    <style>
+      h1 {
+        text-align: center;
+      }
+
+      .negrita {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Curriculum Vitae</h1>
+    <h3>Descripción personal</h3>
+      <img url= 'https://postimg.cc/67cbvZTB'>
+      <p>Mi nombre es Andrés Esteban Muñoz Urrutia, tengo 27 años y vivo en Santiago de Chile. Actualmente estudiando programación online en Henry.</p>
+    <h3>Educación</h3>
+      <p><span class='negrita'>Media</span>: Completa - Colegio alicante del rosal (Científico/humanista)</p>
+      <p><span class='negrita'>Universitaria</span>: Incompleta </p>
+        <ul>
+          <li>UMCE - Kinesiología (2015 - 2016)</li>
+          <li>Univesidad de Chile - Lic. en Biología (2017 - 2018)</li>
+        </ul>
+    <h3>Experiencias laborales</h3>
+      <ul>
+        <li>Empresas Rebuss - Inventarios (Noviembre 2013 - Febrero 2014).</li>
+        <li>S.A.E.P - Picking (Diciembre 2016 - Enero 2017).</li>
+        <li>Uber Eats - Repartidor (Julio 2019 - Noviembre 2019).</li>
+        <li>Cajero almacen familiar (Diciembre 2019 - Mayo 2019).</li>
+        <li>Grupo Expro - Operdaror lider, conductor montacarga en el Aeropuerto de Santiago.</li>
+        <li>Derco - Resco SA - Movilizador e inspector de puerto.</li>
+      </ul>
+    <h3>Skills</h3>
+      <ul>
+        <li>Manejo del Inglés nivel intermedio</li>
+        <li>Computación nivel usuario avanzado</li>
+        <li>Licencia clase B y C</li>
+      </ul>
+    //en esta parte va una foto//
+    <h3>Hobbies</h3>
+      <ul>
+        <li>Videojuegos</li>
+        <li>Peliculas y series</li>
+        <li>Estoy apreniendo a tocar piano</li>
+      </ul>
+    <h3>Expectativas</h3>
+      <p>Comenzé a estudiar esta carrera porque me llama la atención el espacio para la creatividad que proporciona la programación. Siempre me ha gustado el mundo de la computación pero nunca lo pensé como algo a lo cual dedicarme, hasta que vi unos tutoriales en youtube que eran una especie de introducción a al programación y realmente me interesó ya que tenía que usar constantemente la lógica matemática para resolver problemas (como si fuese una especie de puzzle que debía armar). Quiero comenzar mi viaje en este mundo con este curso porque pienso que me da herramientas básicas para aprender a programar y la verdad espero que al terminar pueda conseguir un trabajo relacionado que me permita, al mismo tiempo, seguir estudiando otros lenguajes.</p>
+  </body>
+</html>
